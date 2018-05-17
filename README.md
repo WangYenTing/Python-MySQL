@@ -1,6 +1,6 @@
 # Python-MySQL
 [pyodbc] version = 4.0.16
-中文輸出變亂碼
+connect Driver 要用Unicode的才能輸出中文
 
 [pymysql] versioin = 0.8.1
 可以取出中文
